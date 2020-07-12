@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/The sequence/out/
+/Problems/The sequence/out/production/classes/
+/Simple Chatty Bot/task/build/
